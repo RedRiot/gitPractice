@@ -1,6 +1,9 @@
 public class Future {
 
-  public void future() {
-    System.out.println("Capricorn");
+  String horoscopeSign = "Capricorn";
+
+  public void future(String horoscopeSign) {
+    System.out.println(horoscopeSign);
   }
+
 }
