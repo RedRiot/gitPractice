@@ -1,9 +1,10 @@
 public class Future {
 
   String horoscopeSign = "Capricorn";
+  String chineseSign = "Sheep";
 
-  public void future(String horoscopeSign) {
-    System.out.println("Your future looks like " + horoscopeSign + "tralala");
+
+  public void future(String chineseSign) {
+    System.out.println("Your future looks like " + chineseSign + horoscopeSign);
   }
-
 }
