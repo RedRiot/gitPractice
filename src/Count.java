@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class Count {
+
+  public void count() {
+    System.out.println("30");
+  }
 }
