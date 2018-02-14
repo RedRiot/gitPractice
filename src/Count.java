@@ -4,6 +4,6 @@ public class Count {
   int month = 6;
 
   public void count(int year, int month) {
-    System.out.println(year + month);
+    System.out.println("Counting the countless " + year + " " + month);
   }
 }
