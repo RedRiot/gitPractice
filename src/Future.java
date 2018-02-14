@@ -4,6 +4,6 @@ public class Future {
   String chineseSign = "Sheep";
 
   public void future(String chineseSign) {
-    System.out.println("Your future looks like " + chineseSign);
-  }
+    System.out.println("Your future looks like " + chineseSign + horoscopeSign);
+  }git 
 }
