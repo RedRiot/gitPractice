@@ -3,6 +3,6 @@ public class Cheer {
   String language = "c++";
 
   public void cheer(String language) {
-    System.out.println(language);
+    System.out.println("Cheer for the " + language);
   }
 }
