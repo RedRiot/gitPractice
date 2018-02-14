@@ -1,6 +1,9 @@
 public class Count {
 
-  public void count(int age) {
-    System.out.println(age);
+  int month = 6;
+
+
+  public void count(int month) {
+    System.out.println(month);
   }
 }

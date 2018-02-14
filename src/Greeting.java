@@ -1,7 +1,7 @@
 public class Greeting {
-  private String name = "Tung";
+  String name;
 
-  public String greet() {
-    return "Vajda Lilla";
+  public String greet(String name) {
+    return name;
   }
 }
